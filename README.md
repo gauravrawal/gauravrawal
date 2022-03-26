@@ -20,12 +20,12 @@
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravrawal&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
 </p>
 
-<h4 align="center">Views of all repositories (updated daily)</h4>
+<!-- <h4 align="center">Views of all repositories (updated daily)</h4>
 <p align="center">
 	<a href="https://github.com/gauravrawal/my_github_profile_views_counter">
 		<img width="135em" src="https://github.com/gauravrawal/my_github_profile_views_counter/blob/master/svg/profile/badge.svg">
 	</a>
-</p>
+</p> -->
 
 # Languages
 
@@ -51,7 +51,7 @@
 
 <p align="center">
 	<a href="https://github.com/gauravrawal/Trendr_App">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravrawal&repo=Trendr_App&hide_border=true&theme=dark">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravrawal&repo=react-snippy&hide_border=true&theme=dark">
 	</a>
 </p>
 
