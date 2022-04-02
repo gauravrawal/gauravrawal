@@ -16,9 +16,9 @@
 	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravrawal&include_all_commits=true&hide_border=true&theme=dark"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravrawal&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
-</p>
+</p> -->
 
 <!-- <h4 align="center">Views of all repositories (updated daily)</h4>
 <p align="center">
@@ -27,23 +27,23 @@
 	</a>
 </p> -->
 
-# Languages
+<!-- # Languages
 
 <h4 align="center">Most used languages (by number of commits)</h4>
 <p align="center">
 	<a href="https://profile.codersrank.io/user/gauravrawal#Tech%20Skills">
 		<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=gauravrawal&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=white">
 	</a>
-</p>
+</p> -->
 
-# Contributions
+<!-- # Contributions
 
 <h4 align="center">Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
 <p align="center">
 	<a href="./profile-3d-contrib/profile-night-green.svg">
 		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
 	</a>
-</p>
+</p> -->
 
 # Projects
 
@@ -218,6 +218,6 @@
 
 # Metrics
 
-<p align="center">
+<!-- <p align="center">
 	<img width="625em" src="https://github.com/gauravrawal/gauravrawal/blob/main/github-metrics.svg" />
-</p>
+</p> -->
