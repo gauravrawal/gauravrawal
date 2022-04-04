@@ -50,7 +50,7 @@
 ## Full-stack
 
 <p align="center">
-	<a href="https://github.com/gauravrawal/Trendr_App">
+	<a href="https://github.com/gauravrawal/react-snippy">
 		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravrawal&repo=react-snippy&hide_border=true&theme=dark">
 	</a>
 </p>
@@ -216,7 +216,7 @@
 <!-- ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white) -->
 <!-- ![OpenShift](https://img.shields.io/badge/OpenShift-E00?style=for-the-badge&logo=redhatopenshift&logoColor=white) -->
 
-# Metrics
+<!-- # Metrics -->
 
 <!-- <p align="center">
 	<img width="625em" src="https://github.com/gauravrawal/gauravrawal/blob/main/github-metrics.svg" />
