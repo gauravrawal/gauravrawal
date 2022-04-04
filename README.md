@@ -55,7 +55,7 @@
 	</a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 	<a href="https://github.com/gauravrawal/Masters_Thesis">
 		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravrawal&repo=Masters_Thesis&hide_border=true&theme=dark">
 	</a>
@@ -65,9 +65,9 @@
 	<a href="https://github.com/gauravrawal/Personal_Blog">
 		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravrawal&repo=Personal_Blog&hide_border=true&theme=dark">
 	</a>
-</p>
+</p> -->
 
-## Back-end
+<!-- ## Back-end
 
 <p align="center">
 	<a href="https://github.com/gauravrawal/a_cool_blog">
@@ -79,9 +79,9 @@
 	<a href="https://github.com/A-Domain-that-Rocks/adomainthat-rocks_backend">
 		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=A-Domain-that-Rocks&repo=adomainthat-rocks_backend&hide_border=true&theme=dark">
 	</a>
-</p>
+</p> -->
 
-## Front-end
+<!-- ## Front-end
 
 <p align="center">
 	<a href="https://github.com/gauravrawal/AngularBlog">
@@ -105,7 +105,7 @@
 	<a href="https://github.com/gauravrawal/pig_game">
 		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravrawal&repo=pig_game&hide_border=true&theme=dark">
 	</a>
-</p>
+</p> -->
 
 <!-- ## Data Science
 
